@@ -35,3 +35,118 @@ post '/complete/:id' do
   task[:completed] = true if task
   redirect '/'
 end
+
+
+
+# require 'sinatra'
+# require 'sinatra/reloader' if development?
+
+# # Sample data for tasks (in-memory storage for simplicity)
+# tasks = [
+#   { id: 1, title: "Learn Ruby", completed: false },
+#   { id: 2, title: "Build a web app", completed: false }
+# ]
+
+# # Display the list of tasks
+# get '/' do
+#   @tasks = tasks
+#   erb :index
+# end
+# require 'sinatra'
+# require 'sinatra/reloader' if development?
+
+# # Sample data for tasks (in-memory storage for simplicity)
+# tasks = [
+#   { id: 1, title: "Learn Ruby", completed: false },
+#   { id: 2, title: "Build a web app", completed: false }
+# ]
+
+# # Display the list of tasks
+# get '/' do
+#   @tasks = tasks
+#   erb :index
+# end
+# require 'sinatra'
+# require 'sinatra/reloader' if development?
+
+# # Sample data for tasks (in-memory storage for simplicity)
+# tasks = [
+#   { id: 1, title: "Learn Ruby", completed: false },
+#   { id: 2, title: "Build a web app", completed: false }
+# ]
+
+# # Display the list of tasks
+# get '/' do
+#   @tasks = tasks
+#   erb :index
+# end
+# require 'sinatra'
+# require 'sinatra/reloader' if development?
+
+# # Sample data for tasks (in-memory storage for simplicity)
+# tasks = [
+#   { id: 1, title: "Learn Ruby", completed: false },
+#   { id: 2, title: "Build a web app", completed: false }
+# ]
+
+# # Display the list of tasks
+# get '/' do
+#   @tasks = tasks
+#   erb :index
+# end
+# require 'sinatra'
+# require 'sinatra/reloader' if development?
+
+# # Sample data for tasks (in-memory storage for simplicity)
+# tasks = [
+#   { id: 1, title: "Learn Ruby", completed: false },
+#   { id: 2, title: "Build a web app", completed: false }
+# ]
+
+# # Display the list of tasks
+# get '/' do
+#   @tasks = tasks
+#   erb :index
+# end
+# require 'sinatra'
+# require 'sinatra/reloader' if development?
+
+# # Sample data for tasks (in-memory storage for simplicity)
+# tasks = [
+#   { id: 1, title: "Learn Ruby", completed: false },
+#   { id: 2, title: "Build a web app", completed: false }
+# ]
+
+# # Display the list of tasks
+# get '/' do
+#   @tasks = tasks
+#   erb :index
+# end
+# require 'sinatra'
+# require 'sinatra/reloader' if development?
+
+# # Sample data for tasks (in-memory storage for simplicity)
+# tasks = [
+#   { id: 1, title: "Learn Ruby", completed: false },
+#   { id: 2, title: "Build a web app", completed: false }
+# ]
+
+# # Display the list of tasks
+# get '/' do
+#   @tasks = tasks
+#   erb :index
+# end
+# require 'sinatra'
+# require 'sinatra/reloader' if development?
+
+# # Sample data for tasks (in-memory storage for simplicity)
+# tasks = [
+#   { id: 1, title: "Learn Ruby", completed: false },
+#   { id: 2, title: "Build a web app", completed: false }
+# ]
+
+# # Display the list of tasks
+# get '/' do
+#   @tasks = tasks
+#   erb :index
+# end
